@@ -15,7 +15,7 @@
     <nav>
         <div class="container nav-container">
             <a href="" class="logo">
-                <h2>Amrit<span> Kumar</span></h2>
+                <h2>Amrit Yadav<span> Kumar</span></h2>
             </a>
             <ul>
                 <li><a href="#About">About </a></li>
