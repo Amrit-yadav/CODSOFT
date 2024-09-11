@@ -32,7 +32,7 @@
                 <h1>
                     Hello,
 
-                    <p class="name"> I am <span>Rajnish</span></p>
+                    <p class="name"> I am <span>AmritYadav</span></p>
                 </h1>
                 <p>Proficient in HTML,CSS, Javascript and React.js with
                     experience in windows and linux<br> environmenst
@@ -70,19 +70,19 @@
             <article class="about-article">
                 <img src="email.png" alt="">
                 <h5>EMAIL</h5>
-                <p>sonyrajnish845455@gmail.com </p>
+                <p>amrit003.vns@gmail.com</p>
 
             </article>
             <article class="about-article">
                 <img src="linkedin.png" alt="">
                 <h5>Linkedin</h5>
-                <p>www.linkedin.com/in/rajnish-kumar-aa9123209</p>
+                <p>www.linkedin.com/in/amrit-yadav-aa9123209</p>
 
             </article>
             <article class="about-article">
                 <img src="telephone-call.png" alt="">
                 <h5>PHONE </h5>
-                <p>+918789512130</p>
+                <p>7309646064</p>
 
             </article>
         </div>
