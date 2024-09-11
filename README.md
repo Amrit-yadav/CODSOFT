@@ -213,7 +213,7 @@
         </div>
     </section>
     <footer>
-        &copy;Rajnish Kumar
+        &copy;Amrit yadav
 
     </footer>
     <script src="script.js"></script>
