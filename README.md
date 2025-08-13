@@ -64,7 +64,7 @@
             <article class="about-article">
                 <img src="man.png" alt="">
                 <h5>FULL NAME</h5>
-                <p>Rajnish KUmar</p>
+                <p>Amrit yadav</p>
 
             </article>
             <article class="about-article">
